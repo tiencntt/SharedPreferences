@@ -1,0 +1,270 @@
+{
+    "status": 1,
+    "message": "Thành Công",
+    "data": [
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/7384dd60fa4e4bba973c17972114c8dc.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 4059815002842,
+            "categoryName": "ADIDAS",
+            "weight": 172,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/9ded01ba2f7743d3a18b195d937d19d4.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1300000,
+            "conversionValue": 1,
+            "id": 16318412,
+            "name": "Áo ADIDAS nam DM5250 size S"
+        },
+        {
+            "code": 4059815002866,
+            "categoryName": "Nike",
+            "weight": 188,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/c04b52575dbf4a8684d02b14339ec596.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1200000,
+            "conversionValue": 1,
+            "id": 16318414,
+            "name": "Quần ADIDAS nam DM5250 size L"
+        },
+        {
+            "code": 4055016973684,
+            "categoryName": "ADIDAS",
+            "weight": 199,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/4bbe797898214f2dbdd1c16e106b443f.jpg",
+            "createdDate": "2018-05-100",
+            "basePrice": 800000,
+            "conversionValue": 1,
+            "id": 16318416,
+            "name": "Bộ quần áo ADIDAS nam S22476 size S"
+        },
+        {
+            "code": 4060509777427,
+            "categoryName": "Puma",
+            "weight": 216,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/b6ee182d77c94cb8a1d3202e46c8fbe1.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1900000,
+            "conversionValue": 1,
+            "id": 16318423,
+            "name": "Áo ADIDAS nam CY3334 size M"
+        },
+        {
+            "code": 4059505019648,
+            "categoryName": "Puma",
+            "weight": 100,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/19c30855eb8b42258e6d58547a1e7b80.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1500000,
+            "conversionValue": 1,
+            "id": 11644311,
+            "name": "Giầy PUMA Suede Heart Celebrate nữ 36556102 size 37.5"
+        },
+        {
+            "code": 4059505052218,
+            "categoryName": "ADIDAS",
+            "weight": 168,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/9b411a060f8645bba25629fd3e1e0e6f.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1600000,
+            "conversionValue": 1,
+            "id": 11644307,
+            "name": "Giầy PUMA Platform Sandal nữ 36547801 size 37.5"
+        },
+        {
+            "code": 4059505051280,
+            "categoryName": "Thượng đình",
+            "weight": 190,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/4694e0ff311949a08867b1d1d5986739.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 11644306,
+            "name": "Giầy Thượng đình Basket Heart Canvas nữ 36649503 size 38.5"
+        },
+        {
+            "code": 4059505051242,
+            "categoryName": "Bitit",
+            "weight": 187,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/e61ddc4ae6c64f5d99a55d7b76251d5c.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1800000,
+            "conversionValue": 1,
+            "id": 11644305,
+            "name": "Giầy Bitit Basket Heart Canvas nữ 36649503 size 37"
+        },
+        {
+            "code": 4059505049461,
+            "categoryName": "Nike",
+            "weight": 1650000,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/4bbe797898214f2dbdd1c16e106b443f.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1440000,
+            "conversionValue": 1,
+            "id": 11644304,
+            "name": "Giầy Nike Suede Heart Celebrate nữ 36595101 size 37"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Convert",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/9ded01ba2f7743d3a18b195d937d19d4.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1250000,
+            "conversionValue": 1,
+            "id": 16318456,
+            "name": "Giầy Convert Suede Heart Celebrate nữ 36556101 size 37.5"
+        },
+        {
+            "code": 4057289631506,
+            "categoryName": "ADIDAS",
+            "weight": 189,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/8f27bce9c26b46bf9ffb0f2bf6907d3a.jpg",
+            "createdDate": "2018-05-10",
+            "basePrice": 1300000,
+            "conversionValue": 1,
+            "id": 16318459,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/7384dd60fa4e4bba973c17972114c8dc.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Puma",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/9ded01ba2f7743d3a18b195d937d19d4.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo Puma thể thao "
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Adidas",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/b6ee182d77c94cb8a1d3202e46c8fbe1.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo Adidas thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/4bbe797898214f2dbdd1c16e106b443f.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/b6ee182d77c94cb8a1d3202e46c8fbe1.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/8f27bce9c26b46bf9ffb0f2bf6907d3a.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/7384dd60fa4e4bba973c17972114c8dc.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/9ded01ba2f7743d3a18b195d937d19d4.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/c04b52575dbf4a8684d02b14339ec596.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/4bbe797898214f2dbdd1c16e106b443f.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/b6ee182d77c94cb8a1d3202e46c8fbe1.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        },
+        {
+            "code": 91202919511,
+            "categoryName": "Nike",
+            "weight": 213,
+            "image": "https://cdn-images.kiotviet.vn/hienkhangkiet/8f27bce9c26b46bf9ffb0f2bf6907d3a.jpg",
+            "createdDate": "2018-05-10T16:39:05.2930000",
+            "basePrice": 1099000,
+            "conversionValue": 1,
+            "id": 7458605,
+            "name": "Áo ba lỗ thể thao 728740-100-S"
+        }
+    ]
+}
